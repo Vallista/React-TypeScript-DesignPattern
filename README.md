@@ -13,7 +13,7 @@
 
 As the size of the web page grows, the web has many states. The Web has developed a store concept for state manipulation and has developed models to make them easier to manage within store.
 
-so as to model and inject object-oriented concepts, As I saw it, I needed a design pattern. This REPOSITORY organized the design pattern.
+so as to model and inject object-oriented concepts, As I saw it, I needed a design pattern. This repository organized the design pattern.
 
 ## Classification and Type
 
