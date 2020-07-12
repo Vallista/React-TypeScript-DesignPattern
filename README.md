@@ -19,7 +19,7 @@ so as to model and inject object-oriented concepts, As I saw it, I needed a desi
 
 Design patterns had originally been categorized into 3 sub-classifications based on kind of problem they solve. Creational patterns provide the capability to create objects based on a required criteria and in a controlled way. Structural patterns are about organizing different classes and objects to form larger structures and provide new functionality. Finally, behavioral patterns are about identifying common communication patterns between objects and realize these patterns.
 
-- by [Software_design_pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
+- by [Software design pattern - wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 | name             | classification     | github repository                                                 | blog post                                                                                                                                |
 | ---------------- | ------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
