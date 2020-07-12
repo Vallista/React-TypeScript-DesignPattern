@@ -1,14 +1,16 @@
-<p style="text-align: center;">
+<p align="center">
 <img src="https://github.com/Vallista/React-TypeScript-DesignPattern/blob/master/images/icon.jpg?raw=true"/>
 </p>
 
-<p style="text-align: center">
-<span style="font-size: 30px; font-weight: 500;">React + TypeScript + DesignPattern</span>
-</p>
+<h3 align="center">React + TypeScript + DesignPattern</h3>
 
----
+<p align="center">This is a repository for examples that implement Design Pattern as React and TypeScript.</p>
 
-This is a repository for examples that implement Design Pattern as React and TypeScript.
+## React + TypeScript + DesignPattern = ?
+
+As the size of the web page grows, the web has many states. The Web has developed a store concept for state manipulation and has developed models to make them easier to manage within store.
+
+so as to model and inject object-oriented concepts, As I saw it, I needed a design pattern. This REPOSITORY organized the design pattern.
 
 ## Classification and Type
 
