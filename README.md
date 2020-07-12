@@ -6,6 +6,9 @@
 
 <p align="center">This is a repository for examples that implement Design Pattern as React and TypeScript.</p>
 
+<br/>
+<br/>
+
 ## React + TypeScript + DesignPattern = ?
 
 As the size of the web page grows, the web has many states. The Web has developed a store concept for state manipulation and has developed models to make them easier to manage within store.
